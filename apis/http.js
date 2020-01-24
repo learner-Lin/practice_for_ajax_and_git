@@ -1,3 +1,12 @@
+/*
+ * Project: 
+ * Version: v1.0.0
+ * Author: Chester Lin <chesterlin@163.com>
+ * Date: 2020-01-24 11:38:07
+ * Description: 
+ * --------------------------------------------------------------------------
+ * Copyright (C) 2018-2019 Hightopo Co.,Ltd. All rights reserved.
+ */
 import axios from 'axios'
 import qs from 'qs'
 //MOCK // npm run dev 会自动启用 mock , npm run build 会自动关掉 mock, 如果想直接关闭 mock 可以注释掉本行
@@ -5,7 +14,7 @@ import qs from 'qs'
 const debug = false
 axios.defaults.withCredentials = true;
 export const http = axios.create({
-    baseURL: 'http://27.115.117.6:8099',
+    baseURL: '',
     timeout: 20000,
     headers: {
 		//'Authorization': 'Bearer ' + localStorage.getItem('token')
