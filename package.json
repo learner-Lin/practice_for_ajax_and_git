@@ -1,0 +1,20 @@
+{
+  "name": "practice_for_ajax_and_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learner-Lin/practice_for_ajax_and_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learner-Lin/practice_for_ajax_and_git/issues"
+  },
+  "homepage": "https://github.com/learner-Lin/practice_for_ajax_and_git#readme"
+}
