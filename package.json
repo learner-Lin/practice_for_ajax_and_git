@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/learner-Lin/practice_for_ajax_and_git/issues"
   },
-  "homepage": "https://github.com/learner-Lin/practice_for_ajax_and_git#readme"
+  "homepage": "https://github.com/learner-Lin/practice_for_ajax_and_git#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "qs": "^6.9.1"
+  }
 }
