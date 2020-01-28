@@ -11,7 +11,7 @@ import axios from 'axios'
 import qs from 'qs'
 //MOCK // npm run dev 会自动启用 mock , npm run build 会自动关掉 mock, 如果想直接关闭 mock 可以注释掉本行
 
-const t1 = 'a';
+const test = 'test';
 const debug = false
 axios.defaults.withCredentials = true;
 export const http = axios.create({
