@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/learner-Lin/practice_for_ajax_and_git#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "qs": "^6.9.1"
   }
 }
